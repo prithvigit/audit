@@ -1,0 +1,103 @@
+.form-panel{
+border-width: 12px;border-color:#2A9FD6; background-color:#24292e;
+}
+
+
+.btn-default{
+  float: right !important;
+}
+
+
+.btn-default{
+    color: #333 !important;
+    background-color: #fff !important;
+    border-color: #ccc !important;
+
+
+}
+
+label{
+  color: white;
+}
+
+footer{
+  background-color:#24292e ;
+  text-align:center;
+  padding:30px;
+  margin-top:30px;
+}
+
+body{
+	background-color:#24292e !important;
+  height: 100%;
+}
+
+.btn-success{
+	float: right !important;
+}
+
+.nav-item{
+	float:right !important;
+
+}
+
+
+.container
+{
+	padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;
+}
+
+
+
+#header{
+  background:#333333;
+  color:#ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+#header .create{
+  padding-top: 20px;
+}
+
+.breadcrumb{
+  background:#cccccc;
+  color:#333333;
+}
+
+.breadcrumb a{
+  color:#333333;
+}
+
+.progress-bar{
+  background:#333333;
+  color:#ffffff;
+}
+
+.dash-box{
+  text-align:center;
+}
+
+#login{
+  margin-top:30px;
+}
+
+#footer{
+  background-color:#24292e ;
+  color:#ffffff;
+  text-align:center;
+  padding:30px;
+  margin-top:30px;
+}
+
+#abc{
+  color: black;
+}
+
+#particles-js{
+  position: absolute;
+  height:1100px;
+  width:100%;
+  background: #24292e !important;
+}
+
